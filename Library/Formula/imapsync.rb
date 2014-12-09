@@ -2,8 +2,8 @@ require "formula"
 
 class Imapsync < Formula
   homepage "http://ks.lamiral.info/imapsync/"
-  url "https://fedorahosted.org/released/imapsync/imapsync-1.592.tgz"
-  sha1 "f107917ee01ef46d97408226a083871a7d660d0b"
+  url "https://fedorahosted.org/released/imapsync/imapsync-1.607.tgz"
+  sha1 "c9d6dd43cf10ba7f90a363900484085d9ce682a4"
 
   head "https://git.fedorahosted.org/git/imapsync.git"
 
